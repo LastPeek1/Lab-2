@@ -87,7 +87,7 @@
 
 Для ознакомления с работой модели и тестирования кода в Google Colab воспользуйтесь ссылкой:
 
-[Ссылка на Colab](#https://colab.research.google.com/drive/18IKDGtk0NjgtQgo9V_FPE7DxojeRjIkN)
+[Ссылка на Colab](https://colab.research.google.com/drive/18IKDGtk0NjgtQgo9V_FPE7DxojeRjIkN)
 
 ## Структура проекта
 
