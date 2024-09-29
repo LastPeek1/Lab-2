@@ -8,7 +8,7 @@
 
 - Python 3.x
 - TensorFlow
-- spaCy (`ru_core_news_sm`)
+- [spaCy](https://spacy.io/models) (`ru_core_news_sm`)
 - Transformers (`cointegrated/rubert-tiny`)
 - PyTelegramBotAPI
 - GPU оптимизация
